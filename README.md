@@ -1,2 +1,2 @@
-# Leaning
+# Learning
 プログラミング練習用
